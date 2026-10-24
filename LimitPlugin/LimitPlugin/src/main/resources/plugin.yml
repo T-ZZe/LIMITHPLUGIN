@@ -1,0 +1,5 @@
+name: LimitPlugin
+version: 1.0
+main: fr.limit.LimitPlugin
+# Mets ici ta version (ex: "1.21" ou "26.1")
+api-version: "1.21"
